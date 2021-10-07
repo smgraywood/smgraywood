@@ -13,7 +13,7 @@
 <img src="https://raw.githubusercontent.com/smgraywood/smgraywood/master/pusheen.gif" width="300px">
 <br>
 
-
+<h3>Stats</h3>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=smgraywood&count_private=true&show_icons=true&include_all_commits=true&theme=bear)
 <br>
