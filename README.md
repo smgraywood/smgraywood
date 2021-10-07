@@ -17,7 +17,8 @@ I'm Sarah!</h3>
 <p align="center"><img src="https://raw.githubusercontent.com/smgraywood/smgraywood/master/pusheen.gif" width="300px"></p>
 <br>
 <br>
-<br>
+<hr>
+
 <h3>Stats</h3>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=smgraywood&count_private=true&show_icons=true&include_all_commits=true&theme=noctis)
@@ -27,7 +28,7 @@ I'm Sarah!</h3>
 
 <br>
 <br>
-
+<hr>
 <h3>Technology and Tools</h3>
 
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
