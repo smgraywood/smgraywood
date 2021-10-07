@@ -14,7 +14,7 @@ I'm Sarah!
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=smgraywood&count_private=true&show_icons=true&include_all_commits=true)
 ![](https://raw.githubusercontent.com/smgraywood/github-stats-transparent/output/generated/languages.svg)
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?smgraywood" frameborder="0"></iframe>
+![](<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?smgraywood" frameborder="0"></iframe>)
 
 <br>
 <br>
