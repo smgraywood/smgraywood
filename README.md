@@ -6,7 +6,7 @@ I'm Sarah!
 *Qualitative Data Master | Software Engineer in Training | Equity & Inclusion Expert | Latina Breaking into Tech*
 
 ![Twitter](https://img.shields.io/badge/TechQuieroMucho-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin/smgraywood-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Instagram](https://img.shields.io/badge/tech.quiero.mucho-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
