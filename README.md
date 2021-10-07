@@ -12,7 +12,7 @@ I'm Sarah!</h3>
  
 <br>
 <br>
-<img src="https://raw.githubusercontent.com/smgraywood/smgraywood/master/pusheen.gif" width="300px">
+<p align="center"><img src="https://raw.githubusercontent.com/smgraywood/smgraywood/master/pusheen.gif" width="300px"></p>
 <br>
 <br>
 <h3>Stats</h3>
