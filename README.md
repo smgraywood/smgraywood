@@ -1,5 +1,6 @@
-<p align="center"><img src="https://raw.githubusercontent.com/smgraywood/smgraywood/master/hello.png" width="500px">
-<h3>I'm Sarah!</h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/smgraywood/smgraywood/master/hello.png" width="500px">
+  <br>
+I'm Sarah!</h3>
 
 *Qualitative Data Master | Software Engineer in Training | Equity & Inclusion Expert | Latina Breaking into Tech*
 
@@ -65,7 +66,7 @@
 <br>
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-</p>
+
 
 <!--
 **smgraywood/smgraywood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
