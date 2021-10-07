@@ -15,7 +15,7 @@
 <br>
 <h3>Stats</h3>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=smgraywood&count_private=true&show_icons=true&include_all_commits=true&theme=dracula)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=smgraywood&count_private=true&show_icons=true&include_all_commits=true&bg_color=DEG, pink,red)
 <br>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smgraywood&langs_count=8)](https://github.com/smgraywood/github-readme-stats&theme=bear)
