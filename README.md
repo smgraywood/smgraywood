@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/smgraywood/smgraywood/master/hello.png" width="500px">
+<p align="center"><img src="https://raw.githubusercontent.com/smgraywood/smgraywood/master/hello.png" width="500px"></p>
 <h3>I'm Sarah!</h3>
 
 *Qualitative Data Master | Software Engineer in Training | Equity & Inclusion Expert | Latina Breaking into Tech*
