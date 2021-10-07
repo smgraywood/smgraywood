@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there
 
-<img src="https://raw.githubusercontent.com/smgraywood/smgraywood/master/pusheen.gif" width="30px">
+<img src="https://raw.githubusercontent.com/smgraywood/smgraywood/master/pusheen.gif" width="300px">
 
 
 I'm Sarah!
