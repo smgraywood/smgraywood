@@ -1,8 +1,7 @@
 <h1> Hello! </h1>
 <h3>I'm Sarah!</h3>
-<br>
 *Qualitative Data Master | Software Engineer in Training | Equity & Inclusion Expert | Latina Breaking into Tech*
-
+<br>
 <img src="https://raw.githubusercontent.com/smgraywood/smgraywood/master/pusheen.gif" width="300px">
 
 
