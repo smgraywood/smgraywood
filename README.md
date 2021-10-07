@@ -1,9 +1,12 @@
 <h1> Hello! </h1>
 <h3>I'm Sarah!</h3>
+
 *Qualitative Data Master | Software Engineer in Training | Equity & Inclusion Expert | Latina Breaking into Tech*
+
+<br>
 <br>
 <img src="https://raw.githubusercontent.com/smgraywood/smgraywood/master/pusheen.gif" width="300px">
-
+<br>
 
 ![Twitter](https://img.shields.io/badge/TechQuieroMucho-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin/smgraywood-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
