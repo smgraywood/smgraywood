@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://raw.githubusercontent.com/smgraywood/smgraywood/master/wave.gif" width="30px">
+
 
 I'm Sarah!
 *Qualitative Data Master | Software Engineer in Training | Equity & Inclusion Expert | Latina Breaking into Tech*
