@@ -9,7 +9,6 @@ I'm Sarah!</h3>
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Instagram](https://img.shields.io/badge/tech.quiero.mucho-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
- 
 <br>
 <br>
 <p align="center"><img src="https://raw.githubusercontent.com/smgraywood/smgraywood/master/pusheen.gif" width="300px"></p>
