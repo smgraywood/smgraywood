@@ -7,12 +7,12 @@ I'm Sarah!</h3>
 <br>
 <p align="center"><img src="https://raw.githubusercontent.com/smgraywood/smgraywood/master/pusheen.gif" width="300px"></p>
 <br>
-<br>
 ![Twitter](https://img.shields.io/badge/TechQuieroMucho-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white?style=centerme)
 ![LinkedIn](https://img.shields.io/badge/linkedin/smgraywood-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Instagram](https://img.shields.io/badge/tech.quiero.mucho-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)<br>
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<br>
 <br>
 <h3>Stats</h3>
 
