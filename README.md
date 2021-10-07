@@ -2,6 +2,7 @@
 
 
 I'm Sarah!
+<br>
 *Qualitative Data Master | Software Engineer in Training | Equity & Inclusion Expert | Latina Breaking into Tech*
 
 [![Twitter Badge](https://img.shields.io/badge/-@TechQuieroMucho-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=TechQuieroMucho "Follow on Twitter")
