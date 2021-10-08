@@ -1,4 +1,6 @@
-<h3 align="center"><img src="https://raw.githubusercontent.com/smgraywood/smgraywood/master/hello.png" width="500px">
+
+<h3 align="center"><img src="https://raw.githubusercontent.com/smgraywood/smgraywood/master/Hello-Lettering-design-Premium-vector-PNG.png" width="500px">  
+  
   <br>
 I'm Sarah!</h3>
 
@@ -89,4 +91,6 @@ Here are some ideas to get you started:
 <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?smgraywood" frameborder="0"></iframe>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smgraywood&hide=TeX&layout=compact)
 ![](<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?smgraywood" frameborder="0"></iframe>)
+
+hello: <h3 align="center"><img src="https://raw.githubusercontent.com/smgraywood/smgraywood/master/hello.png" width="500px">
 -->
