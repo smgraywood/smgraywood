@@ -3,6 +3,8 @@
   
   <br>
 I'm Sarah!</h3>
+<br>
+<h4 align="center">I'm a Junior Developer in the San Francisco Bay Area</h4>
 
 <i><h4 align="center">Qualitative Data Master | Software Engineer in Training | Equity & Inclusion Expert | Latina Breaking into Tech</h4></i>
 
