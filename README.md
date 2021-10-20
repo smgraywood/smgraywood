@@ -4,7 +4,6 @@
   <br>
 I'm Sarah!</h3>
 <br>
-<h4 align="center">I'm a Junior Developer in the San Francisco Bay Area</h4>
 
 <i><h4 align="center">Qualitative Data Master | Software Engineer in Training | Equity & Inclusion Expert | Latina Breaking into Tech</h4></i>
 
@@ -95,4 +94,6 @@ Here are some ideas to get you started:
 ![](<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?smgraywood" frameborder="0"></iframe>)
 
 hello: <h3 align="center"><img src="https://raw.githubusercontent.com/smgraywood/smgraywood/master/hello.png" width="500px">
+
+<h4 align="center">I'm a Junior Developer in the San Francisco Bay Area</h4>
 -->
