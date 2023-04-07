@@ -5,7 +5,7 @@
 I'm Sarah!</h3>
 <br>
 
-<i><h4 align="center">Software Engineer | Qualitative Research Master | Equity & Inclusion Expert | Latina Breaking into Tech</h4></i>
+<i><h4 align="center">Software Engineer | Qualitative Research Master | Equity & Inclusion Expert | Latina in Tech</h4></i>
 
 <p align="center">
 <a href="https://twitter.com/TechQuieroMucho"><img src="https://img.shields.io/badge/TechQuieroMucho-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
