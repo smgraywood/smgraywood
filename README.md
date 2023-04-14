@@ -12,7 +12,7 @@ I'm Sarah!</h3>
 <a href="https://www.linkedin.com/in/smgraywood/"><img src="https://img.shields.io/badge/linkedin/smgraywood-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="Intended hyperlink"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"></a>
 <a href="https://www.instagram.com/tech.quiero.mucho/"><img src="https://img.shields.io/badge/tech.quiero.mucho-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-<a href="Intended hyperlink"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="smgraywood@gmail.com"><img src="https://img.shields.io/badge/smgraywood-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
  </p>
 
 <br>
