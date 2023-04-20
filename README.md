@@ -8,7 +8,6 @@ I'm Sarah!</h3>
 <i><h4 align="center">Software Engineer | Qualitative Research Master | Equity & Inclusion Expert | Latina in Tech</h4></i>
 
 <p align="center">
-<a href="https://twitter.com/TechQuieroMucho"><img src="https://img.shields.io/badge/TechQuieroMucho-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/smgraywood/"><img src="https://img.shields.io/badge/linkedin/smgraywood-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="Intended hyperlink"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"></a>
 <a href="https://www.instagram.com/tech.quiero.mucho/"><img src="https://img.shields.io/badge/tech.quiero.mucho-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
