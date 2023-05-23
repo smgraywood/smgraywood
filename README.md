@@ -23,7 +23,8 @@ I'm Sarah!</h3>
 
 <h3>Stats</h3>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=smgraywood&count_private=true&show_icons=true&include_all_commits=true&theme=noctis)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=transparent&show_icons=true)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smgraywood&langs_count=8)](https://github.com/smgraywood/github-readme-stats&theme=dracula)
 
 <br>
